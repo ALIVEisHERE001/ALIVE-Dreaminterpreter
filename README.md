@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with biologically-inspired cognition in mind and tailored specifically for "ALIVE-Dreaminterpreter" in the "dream_interpreter" domain, implemented in Python.
+    This project was conceived with human-in-the-loop design in mind and tailored specifically for "ALIVE-Dreaminterpreter" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `89c54a4bac9e` • Generated: 2025-10-30T05:31:22.144048
+    Project Fingerprint: `185365be8cb9` • Generated: 2025-10-30T05:35:39.391408
     
 
 ## Insights from Research
 
-- Video: Zaha Hadid advice for Young Architects
-- Video: The Key to Mastering Architectural Sketching? #drawing  #architecture #sketch
-- Video: Carl Jung's 9 Rules of Dream Interpretation
-- Video: First Rule Is Take Dreams as Facts
-- Repo idea: A complete computer science study plan to become a software engineer.
-- Repo idea: Curated list of project-based tutorials
+- Video: Is AI🤖 Truly Conscious? - Elon Musk
+- Video: Architecture Site Analysis Diagrams in SECONDS with AI 😱 | Aino World #architecture
+- Video: Architecting Agent Memory: Principles, Patterns, and Best Practices — Richmond Alake, MongoDB
+- Video: Manuel Blum - Towards a Conscious AI: A Computer Architecture inspired by Neuroscience
 - Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- Repo idea: :link: Some useful websites for programmers.
-- Repo idea: Collections of awesome neovim plugins.
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
+- Repo idea:  :books: Find your next book to read!
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=ILb5YiV5YuA
-- https://www.youtube.com/watch?v=ILb5YiV5YuA
-- https://www.youtube.com/watch?v=ILb5YiV5YuA
-- https://www.youtube.com/watch?v=ILb5YiV5YuA
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
 
 
 ## Related Repositories
 
-- jwasham/coding-interview-university ⭐ 332015 — https://github.com/jwasham/coding-interview-university
-- practical-tutorials/project-based-learning ⭐ 248264 — https://github.com/practical-tutorials/project-based-learning
 - f/awesome-chatgpt-prompts ⭐ 135920 — https://github.com/f/awesome-chatgpt-prompts
-- sdmg15/Best-websites-a-programmer-should-visit ⭐ 74440 — https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-- rockerBOO/awesome-neovim ⭐ 19347 — https://github.com/rockerBOO/awesome-neovim
+- prakhar1989/awesome-courses ⭐ 64046 — https://github.com/prakhar1989/awesome-courses
+- hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
+- 0xk1h0/ChatGPT_DAN ⭐ 10103 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
