@@ -6,7 +6,7 @@ Tests for ALIVE-Dreaminterpreter
 import unittest
 from main import *
 
-class TestDreaminterpreter(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
